@@ -147,63 +147,63 @@
   const playlist = [
 
     {
-      title:"lucawts & @DENIZWS - CEARCANE",
-      src:"Muzica/lucawts & @DENIZWS - CEARCANE.mp3",
-      artwork:"Thumbnails/cearcane.jpg"
+      title:"BLANCO - sWaGGG 2026",
+      src:"Muzica/BLANCO - sWaGGG 2026.mp3",
+      artwork:"Thumbnails/swag.jpg"
     },
 
     {
-      title:"Lucawats - PARANOIA",
-      src:"Muzica/Lucawats - PARANOIA.mp3",
-      artwork:"Thumbnails/paranoia.jpg"
+      title:"Bazooka - Super Erori",
+      src:"Muzica/Bazooka - Super Erori.mp3",
+      artwork:"Thumbnails/supereroi.jpg"
     },
 
     {
-      title:"Cercel - KAD!LAC 2",
-      src:"Muzica/Cercel - KAD!LAC 2.mp3",
-      artwork:"Thumbnails/kad!lac2.jpg"
+      title:"Marko Glass - IAR O FAC",
+      src:"Muzica/Marko Glass - IAR O FAC.mp3",
+      artwork:"Thumbnails/iarofac.jpg"
     },
 
     {
-      title:"MARKO GLASS -  Pare Usor",
-      src:"Muzica/MARKO GLASS -  Pare Usor.mp3",
-      artwork:"Thumbnails/pareusor.jpg"
+      title:"Marko Glass - Chestii",
+      src:"Muzica/Marko Glass - Chestii.mp3",
+      artwork:"Thumbnails/chestii.jpg"
     },
 
     {
-      title:"COMANN x DZW$ x VALI MIRON - ASTA-I PROBLEMA",
-      src:"Muzica/COMANN x DZW$ x VALI MIRON - ASTA-I PROBLEMA.mp3",
-      artwork:"Thumbnails/astaiproblema.jpg"
+      title:"OSCAR, M.G.L, & RAVA - HAOS",
+      src:"Muzica/OSCAR, M.G.L, & RAVA - HAOS.mp3",
+      artwork:"Thumbnails/haos.jpg"
     },
 
     {
-      title:"@vanillasefu, @DENIZWS & @CERCEL - SPUNE-MI DACA",
-      src:"Muzica/@vanillasefu, @DENIZWS & @CERCEL - SPUNE-MI DACA.mp3",
-      artwork:"Thumbnails/spunemi.jpg"
+      title:"IDK - TARZAN",
+      src:"Muzica/IDK - TARZAN.mp3",
+      artwork:"Thumbnails/tarzan.png"
     },
 
     {
-      title:"IDK - mr. idcash",
-      src:"Muzica/IDK - mr. idcash.mp3",
-      artwork:"Thumbnails/idcash.jpg"
+      title:"Echo - ALL IN",
+      src:"Muzica/Echo - ALL IN.mp3",
+      artwork:"Thumbnails/allin.jpg"
     },
 
     {
-      title:"IDK - promint",
-      src:"Muzica/IDK - promint.mp3",
-      artwork:"Thumbnails/promit.jpg"
+      title:"Marko Glass - Transparency",
+      src:"Muzica/Marko Glass - Transparency.mp3",
+      artwork:"Thumbnails/transparency.jpg"
     },
 
     {
-      title:"$atori Zoom - CATCH ONE",
-      src:"Muzica/$atori Zoom - CATCH ONE.mp3",
-      artwork:"Thumbnails/catchone.jpg"
+      title:"Ian - HBA RMX",
+      src:"Muzica/Ian - HBA RMX.mp3",
+      artwork:"Thumbnails/hbx.jpg"
     },
 
     {
-      title:"VANILLA, @lucawts, @CERCEL & @berechett - LNPSTRD",
-      src:"Muzica/VANILLA, @lucawts, @CERCEL & @berechett - LNPSTRD.mp3",
-      artwork:"Thumbnails/lnpstrd.jpg"
+      title:"Marko Glass - Foreign",
+      src:"Muzica/Marko Glass - Foreign.mp3",
+      artwork:"Thumbnails/foreign.jpg"
     }
 
   ];
