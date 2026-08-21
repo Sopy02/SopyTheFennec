@@ -147,9 +147,9 @@
   const playlist = [
 
     {
-      title:"BLANCO - sWaGGG 2026",
-      src:"Muzica/BLANCO - sWaGGG 2026.mp3",
-      artwork:"Thumbnails/swag.jpg"
+      title:"ECHO - Unu ca Mine",
+      src:"Muzica/ECHO - Unu ca Mine.mp3",
+      artwork:"Thumbnails/unucamine.jpg"
     },
 
     {
