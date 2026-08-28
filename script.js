@@ -148,7 +148,7 @@
 
     {
       title:"BlueFoxMusic",
-      src:"Muzica/BlueFoxMusic - Neon City.mp3",
+      src:"Muzica/BlueFoxMusic - NeonCity.mp3",
       artwork:"Thumbnails/NeonCity.jpg"
     },
 
