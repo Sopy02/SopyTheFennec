@@ -121,7 +121,7 @@
      AVATAR
      ========================================================= */
 
-  const avatarSrc = "avatar.gif";
+  const avatarSrc = "avatarneon.gif";
 
   const avatarImg =
     document.getElementById('avatarImg');
