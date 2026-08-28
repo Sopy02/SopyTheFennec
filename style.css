@@ -177,9 +177,9 @@
     letter-spacing:5px;
 
     text-shadow:
-      0 0 8px rgba(255, 193, 112, 0.9),
-      0 0 20px rgba(255, 60, 180, 0.65),
-      0 0 40px rgba(255, 78, 47, 0.35);
+      0 0 8px rgba(112, 255, 253, 0.9),
+      0 0 20px rgba(250, 112, 255, 0.65),
+      0 0 40px rgba(112, 255, 253, 0.35);
 
     animation:intro-glow 2.5s ease-in-out infinite;
   }
@@ -199,9 +199,9 @@
     0%,100%{
       opacity:0.85;
       text-shadow:
-      0 0 8px rgba(255, 193, 112, 0.9),
-      0 0 20px rgba(255, 60, 180, 0.65),
-      0 0 40px rgba(255, 78, 47, 0.35);
+      0 0 8px rgba(250, 112, 255, 0.9),
+      0 0 20px rgba(250, 112, 255, 0.65),
+      0 0 40px rgba(112, 255, 253, 0.35);
     }
 
     50%{
